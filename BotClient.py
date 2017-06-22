@@ -6,9 +6,9 @@ import requests
 # defining the api-endpoint
 API_ENDPOINT = "https://directline.botframework.com/v3/directline/conversations"
 # your API key here
-API_KEY = "L7zP9NX40yI.cwA.Z5s.jBA-OaNqyy-0lOY1Jm5aTMnouzYhD1MJ3sSvyMRPxSg"
+API_KEY = ""
 # your bot id
-BOT_ID = "SuggestionBot333"
+BOT_ID = ""
 
 def stat_conversation():
     """Start a conversation with bot and get conversation id."""
